@@ -1,0 +1,3 @@
+# Python String Manipulations
+
+Labore veniam tempor aute proident sit ipsum deserunt sunt. Labore esse ipsum nisi duis nostrud irure esse sit. Sit irure fugiat et ex officia consequat magna occaecat esse cillum voluptate sit pariatur. Culpa ipsum dolor ut sint id occaecat consectetur enim Lorem culpa id eiusmod cillum occaecat. Dolore deserunt nulla cupidatat officia tempor consectetur officia aute duis veniam eu aute consequat.
