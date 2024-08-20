@@ -1,0 +1,30 @@
+name: Build README
+on:
+  push:
+    branches:
+    - main
+    paths-ignore:
+    - README.md
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out repo
+      uses: actions/checkout@v4
+      with:
+        # necessary for github-action-til-autoformat-readme
+        fetch-depth: 0
+    - name: TIL Auto-Format README
+      uses: cflynn07/github-action-til-autoformat-readme@1.2.4      
+      with:
+        description: |
+          A collection of concise write-ups on small things I learn day to day across a variety of subject matter. 
+
+          ---
+
+          I  shamelessly stole this idea from [jbranchaud/til][1] who shamelessly stole this idea from [thoughtbot/til][2].
+        footer: |
+          [1]: https://github.com/jbranchaud/til
+          [2]: https://github.com/thoughtbot/til
+        list_most_recent: 3 # optional, lists most recent TILS below description
+        date_format: "2006-01-02" # optional, must align to https://golang.org/pkg/time/#Time.Format
