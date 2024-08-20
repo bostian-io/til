@@ -14,9 +14,9 @@ _6 TILs and counting..._
 
 ### 3 most recent TILs
 
-- [C++ Algorithms](c++/c++-algorithms.md) - 2024-08-20
-- [C++ Image Processing](c++/c++-image-processing.md) - 2024-08-20
-- [polymorphic computing](c++/polymorphic-computing.md) - 2024-08-20
+- [C++ Algorithms](c++-algorithms.md) - 2024-08-20
+- [C++ Image Processing](c++-image-processing.md) - 2024-08-20
+- [polymorphic computing](polymorphic-computing.md) - 2024-08-20
 
 ### Categories
 
@@ -25,9 +25,9 @@ _6 TILs and counting..._
 - [python ](#python )
 
 ### [c++](#c++)
-- [C++ Algorithms](c++/c++-algorithms.md)
-- [C++ Image Processing](c++/c++-image-processing.md)
-- [polymorphic computing](c++/polymorphic-computing.md)
+- [C++ Algorithms](c++-algorithms.md)
+- [C++ Image Processing](c++-image-processing.md)
+- [polymorphic computing](polymorphic-computing.md)
 
 ### [data-science](#data-science)
 - [Statistical Programming Tidbit](data-science/statistical-programming-tidbit.md)
