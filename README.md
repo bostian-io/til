@@ -8,21 +8,27 @@ A collection of concise write-ups on small things I learn day to day across a va
 I  shamelessly stole this idea from [jbranchaud/til][1] who shamelessly stole this idea from [thoughtbot/til][2].
 
 
-_6 TILs and counting..._
+_5 TILs and counting..._
 
 ---
 
 ### 3 most recent TILs
 
+<<<<<<< HEAD
 - [C++ Algorithms](c++-algorithms.md) - 2024-08-20
 - [C++ Image Processing](c++-image-processing.md) - 2024-08-20
 - [polymorphic computing](polymorphic-computing.md) - 2024-08-20
+=======
+- [Python String Manipulations](python/python-string-manipulations.md) - 2024-08-20
+- [C++ Algorithms](c++/c++-algorithms.md) - 2024-08-20
+- [C++ Image Processing](c++/c++-image-processing.md) - 2024-08-20
+>>>>>>> origin/main
 
 ### Categories
 
 - [c++](#c++)
 - [data-science](#data-science)
-- [python ](#python )
+- [python](#python)
 
 ### [c++](#c++)
 - [C++ Algorithms](c++-algorithms.md)
@@ -32,9 +38,8 @@ _6 TILs and counting..._
 ### [data-science](#data-science)
 - [Statistical Programming Tidbit](data-science/statistical-programming-tidbit.md)
 
-### [python ](#python )
-- [Jupyter notebooks for python](python /python-notebooks.md)
-- [Python string manipulation](python /python-string-manipulation.md)
+### [python](#python)
+- [Python String Manipulations](python/python-string-manipulations.md)
 
 [1]: https://github.com/jbranchaud/til
 [2]: https://github.com/thoughtbot/til
