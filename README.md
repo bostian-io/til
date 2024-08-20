@@ -8,32 +8,24 @@ A collection of concise write-ups on small things I learn day to day across a va
 I  shamelessly stole this idea from [jbranchaud/til][1] who shamelessly stole this idea from [thoughtbot/til][2].
 
 
-_5 TILs and counting..._
+_3 TILs and counting..._
 
 ---
 
 ### 3 most recent TILs
 
-<<<<<<< HEAD
-- [C++ Algorithms](c++-algorithms.md) - 2024-08-20
-- [C++ Image Processing](c++-image-processing.md) - 2024-08-20
-- [polymorphic computing](polymorphic-computing.md) - 2024-08-20
-=======
+- [C++ Transforms](cpp/c++-transforms.md) - 2024-08-20
 - [Python String Manipulations](python/python-string-manipulations.md) - 2024-08-20
-- [C++ Algorithms](c++/c++-algorithms.md) - 2024-08-20
-- [C++ Image Processing](c++/c++-image-processing.md) - 2024-08-20
->>>>>>> origin/main
+- [Statistical Programming Tidbit](data-science/statistical-programming-tidbit.md) - 2024-08-20
 
 ### Categories
 
-- [c++](#c++)
+- [cpp](#cpp)
 - [data-science](#data-science)
 - [python](#python)
 
-### [c++](#c++)
-- [C++ Algorithms](c++-algorithms.md)
-- [C++ Image Processing](c++-image-processing.md)
-- [polymorphic computing](polymorphic-computing.md)
+### [cpp](#cpp)
+- [C++ Transforms](cpp/c++-transforms.md)
 
 ### [data-science](#data-science)
 - [Statistical Programming Tidbit](data-science/statistical-programming-tidbit.md)
