@@ -12,10 +12,6 @@ _1 TILs and counting..._
 
 ---
 
-### 1 most recent TILs
-
-- [C++ Image Transformations](C++/cpp-image-transformations-2.md) - 
-
 ### Categories
 
 - [C++](#c++)
