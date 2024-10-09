@@ -14,14 +14,14 @@ _1 TILs and counting..._
 
 ### 1 most recent TILs
 
-- [C++ Image Transformations](c++/cpp-image-transformations.md) - 01 Jan 01 00:00 UTC
+- [C++ Image Transformations](C++/cpp-image-transformations 2.md) - 01 Jan 01 00:00 UTC
 
 ### Categories
 
-- [c++](#c++)
+- [C++](#c++)
 
-### [c++](#c++)
-- [C++ Image Transformations](c++/cpp-image-transformations.md)
+### [C++](#c++)
+- [C++ Image Transformations](C++/cpp-image-transformations 2.md)
 
 [1]: https://github.com/jbranchaud/til
 [2]: https://github.com/thoughtbot/til
