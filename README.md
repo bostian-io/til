@@ -1,11 +1,11 @@
 # TIL
 > Today I Learned
 
-A collection of concise write-ups on small things I learn day to day across a variety of subjects. 
+Concise write-ups on things I learn day to day across a variety of subjects. 
 
 ---
 
-Shamelessly stealing this idea from [jbranchaud/til][1] who "shamelessly stole this idea from [thoughtbot/til][2]". 
+Credit and thanks to [jbranchaud/til][1] and [thoughtbot/til][2] for the inspiration. 
 
 
 _1 TILs and counting..._
