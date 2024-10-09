@@ -18,11 +18,11 @@ jobs:
       uses: cflynn07/github-action-til-autoformat-readme@1.2.4      
       with:
         description: |
-          A collection of concise write-ups on small things I learn day to day across a variety of subjects. 
+          Concise write-ups on things I learn day to day across a variety of subjects. 
 
           ---
 
-          Shamelessly stealing this idea from [jbranchaud/til][1] who "shamelessly stole this idea from [thoughtbot/til][2]". 
+          Credit and thanks to [jbranchaud/til][1] and [thoughtbot/til][2] for the inspiration. 
         footer: |
           [1]: https://github.com/jbranchaud/til
           [2]: https://github.com/thoughtbot/til
