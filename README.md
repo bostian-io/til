@@ -14,7 +14,7 @@ _1 TILs and counting..._
 
 ### 1 most recent TILs
 
-- [C++ Image Transformations](c++/cpp-image-transformations.md) - 0001-01-01
+- [C++ Image Transformations](c++/cpp-image-transformations.md) - 01 Jan 01 00:00 UTC
 
 ### Categories
 
